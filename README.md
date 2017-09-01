@@ -1,5 +1,4 @@
-# hx17versionado
-Versionado. Git y Github
+# Taller pre Hackathon Express 2017. Versionado. Git y Github
 
 # Mini Tutorial Git
 
