@@ -13,7 +13,7 @@ Podemos crear un repositorio de dos maneras:
 Podemos descargarnos el repositorio en cuestión de la siguiente manera:
 
 ```bash
-$ git clone https://github.com/Arcangel617/Legislacion_GNUsticia.git
+$ git clone https://github.com/Arcangel617/hx17versionado.git
 
 ```
 Con eso se nos crea una copia exacta de lo que tengamos en GitHub y solo restaría configurarlo.
@@ -27,7 +27,7 @@ $ git init nombre_del_proyecto
 ```
 Esto nos creará una carpeta en la cual vamos a tener que especificar la url del repositorio de la siguiente manera:
 ```bash
-$ git remote add origin https://github.com/Arcangel617/Legislacion_GNUsticia.git
+$ git remote add origin https://github.com/Arcangel617/hx17versionado.git
 ```
 
 Suponiendo que ya tenemos nuestro proyecto creado pero aún no creamos nuestro repositorio en GitHub por ejemplo, lo que 
@@ -35,7 +35,7 @@ tenemos que hacer es lo siguiente:
 ```bash
 $ cd nombre_del_proyecto
 $ git init
-$ git remote add origin https://github.com/Arcangel617/Legislacion_GNUsticia.git
+$ git remote add origin https://github.com/Arcangel617/hx17versionado.git
 
 ```
 ahora, si no tenemos nada creado... lo mas conveniente es hacer lo siguiente:
@@ -43,7 +43,7 @@ ahora, si no tenemos nada creado... lo mas conveniente es hacer lo siguiente:
 $ mkdir nombre_del_proyecto
 $ cd nombre_del_proyecto
 $ git init
-$ git remote add origin https://github.com/Arcangel617/Legislacion_GNUsticia.git
+$ git remote add origin https://github.com/Arcangel617/hx17versionado.git
 
 ```
 
