@@ -1,5 +1,7 @@
 # Taller pre Hackathon Express 2017. Versionado. Git y Github
 
+Enlace a la presentación: [https://goo.gl/q8Y8CF](https://goo.gl/q8Y8CF)
+
 # Mini Tutorial Git
 
 Los siguientes comandos están sacados de la referencia que pueden descargar desde éste [enlace](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf "GIT Cheat Sheet"). Según mi criterio los que tendrían que saber usar son los siguientes:
