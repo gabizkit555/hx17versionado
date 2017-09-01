@@ -1,0 +1,2 @@
+git status que pasa dentro del repo
+
